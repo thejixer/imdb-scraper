@@ -1,0 +1,72 @@
+{
+  "title": "Oppenheimer",
+  "rate": 8.4,
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+  "duration": "3h",
+  "year": "2023",
+  "genres": ["Biography", "Drama", "History"],
+  "rank": 15,
+  "director": ["Christopher Nolan"],
+  "writers": ["Christopher Nolan", "Kai Bird", "Martin Sherwin"],
+  "cast": [{
+      "actor": "Cillian Murphy",
+      "role": ["J. Robert Oppenheimer"]
+    },
+    {
+      "actor": "Emily Blunt",
+      "role": ["Kitty Oppenheimer"]
+    },
+    {
+      "actor": "Matt Damon",
+      "role": ["Leslie Groves"]
+    },
+    {
+      "actor": "Robert Downey Jr.",
+      "role": ["Lewis Strauss"]
+    },
+    {
+      "actor": "Alden Ehrenreich",
+      "role": ["Senate Aide"]
+    },
+    {
+      "actor": "Scott Grimes",
+      "role": ["Counsel"]
+    }, {
+      "actor": "Jason Clarke",
+      "role": ["Roger Robb"]
+    }, {
+      "actor": "Kurt Koehler",
+      "role": ["Thomas Morgan"]
+    }, {
+      "actor": "Tony Goldwyn",
+      "role": ["Gordon Gray"]
+    }, {
+      "actor": "John Gowans",
+      "role": ["Ward Evans"]
+    }, {
+      "actor": "Macon Blair",
+      "role": ["Lloyd Garrison"]
+    }, {
+      "actor": "James D'Arcy",
+      "role": ["Patrick Blackett"]
+    }, {
+      "actor": "Kenneth Branagh",
+      "role": ["Niels Bohr"]
+    }, {
+      "actor": "Harry Groener",
+      "role": ["Senator McGee"]
+    }, {
+      "actor": "Gregory Jbara",
+      "role": ["Chairman Magnuson"]
+    }, {
+      "actor": "Ted King",
+      "role": ["Senator Bartlett"]
+    }, {
+      "actor": "Tim DeKay",
+      "role": ["Senator Pastore"]
+    }, {
+      "actor": "Steven Houska",
+      "role": ["Senator Scott"]
+    }
+  ]
+}
